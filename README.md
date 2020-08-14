@@ -2,6 +2,6 @@
 Fucking selfbot for falafel
 
 # Import:
-https://pypi.org/project/discord.py/
+- Download discord.py https://pypi.org/project/discord.py
 
-https://pypi.org/project/nekos.py/
+- Download nekos.py https://pypi.org/project/nekos.py/
